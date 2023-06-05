@@ -46,6 +46,7 @@ namespace degisken
             bool b2= false;
             
             DateTime dt1= DateTime.Now;
+            object a = "";
 
             object o1= 'c';
             object o2 = "C";
