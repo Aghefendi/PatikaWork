@@ -1,0 +1,8 @@
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\bin\Debug\tip_donusumler.exe.config
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\bin\Debug\tip_donusumler.exe
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\bin\Debug\tip_donusumler.pdb
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\obj\Debug\tip_donusumler.csproj.AssemblyReference.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\obj\Debug\tip_donusumler.csproj.SuggestedBindingRedirects.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\obj\Debug\tip_donusumler.csproj.CoreCompileInputs.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\obj\Debug\tip_donusumler.exe
+C:\Users\erebu\OneDrive\Masaüstü\visal c\tip_donusumler\tip_donusumler\obj\Debug\tip_donusumler.pdb

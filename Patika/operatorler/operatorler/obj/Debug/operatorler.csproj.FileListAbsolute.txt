@@ -1,0 +1,8 @@
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\bin\Debug\operatorler.exe.config
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\bin\Debug\operatorler.exe
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\bin\Debug\operatorler.pdb
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\obj\Debug\operatorler.csproj.AssemblyReference.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\obj\Debug\operatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\obj\Debug\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\obj\Debug\operatorler.exe
+C:\Users\erebu\OneDrive\Masaüstü\visal c\operatorler\operatorler\obj\Debug\operatorler.pdb

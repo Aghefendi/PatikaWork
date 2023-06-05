@@ -1,0 +1,11 @@
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\bin\Debug\degisken.exe.config
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\bin\Debug\degisken.exe
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\bin\Debug\degisken.pdb
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\obj\Debug\degisken.csproj.AssemblyReference.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\obj\Debug\degisken.csproj.SuggestedBindingRedirects.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\obj\Debug\degisken.csproj.CoreCompileInputs.cache
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\obj\Debug\degisken.exe
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\obj\Debug\degisken.pdb
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erebu\OneDrive\Masaüstü\visal c\degisken\degisken\obj\Debug\degisken.csproj.CopyComplete
