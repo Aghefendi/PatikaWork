@@ -1,0 +1,8 @@
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\obj\Debug\For_loop.csproj.AssemblyReference.cache
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\obj\Debug\For_loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\obj\Debug\For_loop.csproj.CoreCompileInputs.cache
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\bin\Debug\For_loop.exe.config
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\bin\Debug\For_loop.exe
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\bin\Debug\For_loop.pdb
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\obj\Debug\For_loop.exe
+C:\Users\erebu\OneDrive\Masaüstü\Patika\For_loop\For_loop\obj\Debug\For_loop.pdb
