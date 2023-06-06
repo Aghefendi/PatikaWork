@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hata_yonetim", "hata_yonetim\hata_yonetim.csproj", "{56CE6CA9-D4A4-4EEE-8773-2E0464DB0502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CE6CA9-D4A4-4EEE-8773-2E0464DB0502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CE6CA9-D4A4-4EEE-8773-2E0464DB0502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CE6CA9-D4A4-4EEE-8773-2E0464DB0502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CE6CA9-D4A4-4EEE-8773-2E0464DB0502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2473FF-6595-4B8D-862D-38ADCDBD5B6D}
+	EndGlobalSection
+EndGlobal

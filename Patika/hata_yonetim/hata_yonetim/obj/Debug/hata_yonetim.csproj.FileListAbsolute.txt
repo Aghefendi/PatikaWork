@@ -1,0 +1,8 @@
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\bin\Debug\hata_yonetim.exe.config
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\bin\Debug\hata_yonetim.exe
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\bin\Debug\hata_yonetim.pdb
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\obj\Debug\hata_yonetim.csproj.AssemblyReference.cache
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\obj\Debug\hata_yonetim.csproj.SuggestedBindingRedirects.cache
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\obj\Debug\hata_yonetim.csproj.CoreCompileInputs.cache
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\obj\Debug\hata_yonetim.exe
+C:\Users\erebu\OneDrive\Masaüstü\Patika\hata_yonetim\hata_yonetim\obj\Debug\hata_yonetim.pdb
