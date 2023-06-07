@@ -36,6 +36,10 @@ namespace arrays
             foreach (var sayi in sayiDizisi)
                 toplam += sayi;
             Console.WriteLine("Ortalama :" + toplam / diziUzunlugu);
+            decimal sayi1 = Convert.ToDecimal("3");
+            Console.WriteLine(sayi1);
+            Console.ReadLine();
+
         }
     }
 }
